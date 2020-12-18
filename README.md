@@ -7,7 +7,9 @@ App Snapshots
 ![Snapshots](https://github.com/shivani909/bliss_app/blob/master/Snapshots%201.png)
 
 
-![Snapshots](https://github.com/shivani909/bliss_app/blob/master/Snapshots%201.png)
+
+
+![Snapshots](https://github.com/shivani909/bliss_app/blob/master/Snapshots%202.png)
 
 
 ## Getting Started
