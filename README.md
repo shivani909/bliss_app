@@ -1,6 +1,7 @@
-# soothe_app
+# Bliss_App
 
-A new Flutter project.
+Bliss App helps you relax and focus by offering you HD quality nature sounds.
+
 
 ## Getting Started
 
