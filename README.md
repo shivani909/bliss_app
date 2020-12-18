@@ -2,7 +2,7 @@
 
 Bliss App helps you relax and focus by offering you HD quality nature sounds.
 
-App Snapshots
+ APP SNAPSHOTS
  
 ![Snapshots](https://github.com/shivani909/bliss_app/blob/master/Snapshots%201.png)
 
