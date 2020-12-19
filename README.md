@@ -2,7 +2,7 @@
 
 Bliss App helps you relax and focus by offering you HD quality nature sounds.
 
- APP SNAPSHOTS
+# APP SNAPSHOTS
  
 ![Snapshots](https://github.com/shivani909/bliss_app/blob/master/Snapshots%201.png)
 
@@ -10,6 +10,12 @@ Bliss App helps you relax and focus by offering you HD quality nature sounds.
 
 
 ![Snapshots](https://github.com/shivani909/bliss_app/blob/master/Snapshots%202.png)
+
+# Support
+
+I really like to make as much (free) beautiful Flutter apps, so you get inspired! Hence you can support me by:
+
+⭐️ this repo if you like it.
 
 
 ## Getting Started
